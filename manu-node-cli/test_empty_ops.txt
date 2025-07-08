@@ -1,0 +1,13 @@
+create
+Test Node Empty Ops
+Node with no operations
+
+
+Factory1/Test/Empty/Ops
+create
+Test Node With Ops
+Node with operations
+op1, op2, op3
+Factory1/Test/With/Ops
+list
+exit

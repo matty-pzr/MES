@@ -1,0 +1,36 @@
+[
+  {
+    "id": "20250708155112",
+    "title": "CNC",
+    "description": "Wardrobe / shelf making equipment",
+    "operations": [
+      "BigShelf",
+      "SmallShelf"
+    ],
+    "uns_address": "StribrneHory/Dilna/NovaBudova/CNC",
+    "created_at": "2025-07-08T15:51:12.160992747+02:00",
+    "updated_at": "2025-07-08T15:52:22.384574993+02:00"
+  },
+  {
+    "id": "20250708155412",
+    "title": "x",
+    "description": "x",
+    "operations": [
+      "x"
+    ],
+    "uns_address": "x",
+    "created_at": "2025-07-08T15:54:12.451864439+02:00",
+    "updated_at": "2025-07-08T15:54:12.45186452+02:00"
+  },
+  {
+    "id": "20250708161106",
+    "title": "x2",
+    "description": "d",
+    "operations": [
+      "dd"
+    ],
+    "uns_address": "ss",
+    "created_at": "2025-07-08T16:11:06.320954901+02:00",
+    "updated_at": "2025-07-08T16:11:06.32095496+02:00"
+  }
+]

@@ -1,0 +1,38 @@
+help
+list
+delete CNC
+clear
+help
+list
+create
+clear
+view
+list
+view CNC
+update CNC
+list
+clear
+create x
+title CNC MACHINE
+create
+exit
+clear
+create
+x
+create
+x2
+d
+dd
+ss
+create
+dd
+clear
+list
+exit
+hi
+help
+list
+clear
+view CNC
+list
+exit
